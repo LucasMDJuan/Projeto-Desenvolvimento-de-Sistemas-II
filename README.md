@@ -1,2 +1,2 @@
-# Projeto-Desinvolvimento-de-Sistemas-II
+# Projeto-Desenvolvimento-de-Sistemas-II
 Criadores: Lucas Juan, Carolina Silva, Eduardo Pereira
